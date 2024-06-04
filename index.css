@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex-direction: column;
+}
+
+.btn {
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: 800;
+}
+
+.btn1 {
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: 800;
+}
